@@ -23,7 +23,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadrizkihasan&show_icons=true&locale=en&layout=compact" alt="muhamadrizkihasan" /></p> -->
 
 <p align="left">
-<a href="https://github.com/eanauul">
+<a href="https://github.com/muhamadrizkihasan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eanauul&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
