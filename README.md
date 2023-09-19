@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkihasan" alt="muhamadrizkihasan" /></a> </p>
 
-- 🌱 I’m currently learning **NoSQL database**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **PHP**
 
