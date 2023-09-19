@@ -24,11 +24,12 @@
 
 <p align="left">
 <a href="https://github.com/muhamadrizkihasan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eanauul&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadrizkihasan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadrizkihasan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamadrizkihasan&show_icons=true&locale=en" alt="muhamadrizkihasan" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamadrizkihasan&show_icons=true&locale=en" alt="muhamadrizkihasan" /></p> -->
 
 
 <!--
@@ -46,4 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eanauul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  
