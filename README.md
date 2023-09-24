@@ -7,7 +7,7 @@
 
 - 🌱 Saat ini saya sedang belajar **Flutter**
 
-- 💬 Tanya saya tentang **PHP**
+- 💬 Tanya saya tentang **HTML**
 
 - 📫 Bagaimana cara menghubungi saya **muhamadrizkihasan196@gmail.com**
 
