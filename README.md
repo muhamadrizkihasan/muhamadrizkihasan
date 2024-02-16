@@ -11,9 +11,7 @@
 
 - 📫 Bagaimana cara menghubungi saya **muhamadrizkihasan196@gmail.com**
 
-<h3 align="left">Instagram : https://www.instagram.com/hasanm.rizki_/</h3>
-<p align="left">
-</p>
+<!-- <h3 align="left">Instagram : https://www.instagram.com/hasanm.rizki_/</h3> -->
 
 <!-- <h3 align="left">My Skills & Tools :</h3>
 <p>
