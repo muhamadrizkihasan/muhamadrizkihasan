@@ -15,7 +15,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">My Skills & Tools :</h3>
+<!-- <h3 align="left">My Skills & Tools :</h3>
 <p>
 
   <!-- HTML -->
@@ -93,7 +93,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a>
 
-</p>
+</p> -->
 
 <p align="left">
 <a href="https://github.com/muhamadrizkihasan">
